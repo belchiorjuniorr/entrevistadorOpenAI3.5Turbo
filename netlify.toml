@@ -1,0 +1,3 @@
+[build]
+  command = "python __init__.py"
+  publish = "C:\Users\aluno\OneDrive\Área de Trabalho\TCC MOBILE APP\OpenAI_Lab-main\chatgpt\ChatGPT_Flask_Demo\ChatGPT_Flask_Demo\ChatGPT_Flask_Demo\static"
